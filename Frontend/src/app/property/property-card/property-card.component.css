@@ -1,0 +1,15 @@
+h1 {
+  font-weight: normal;
+}
+
+.row {
+  margin-left: auto;
+  margin-right:auto;
+}
+
+.prop-img {
+  width:200px;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
